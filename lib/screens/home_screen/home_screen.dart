@@ -22,4 +22,7 @@ class _HomeScreenState extends State<HomeScreen> {
       ),
     );
   }
+  Widget sample(){
+    return Container();
+  }
 }
